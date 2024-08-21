@@ -20,6 +20,6 @@ public class TypeConversionSecondPartTest {
 
 		Car car = applicationContext.getBean("car", Car.class);
 		assertThat(car.getPrice()).isEqualTo(1000000);
-		assertThat(car.getProduceDate()).isEqualTo(LocalDate.of(2021, 1, 1));
+		assertThat(car.getProduceDate()).isEqualTo(LocalDate.of(2023, 1, 1));
 	}
 }

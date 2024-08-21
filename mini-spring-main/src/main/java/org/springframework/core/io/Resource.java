@@ -7,7 +7,7 @@ import java.io.InputStream;
  * 资源的抽象和访问接口
  *
  * @author Gws.
- *   2020/11/25
+ *   2023/11/25
  */
 public interface Resource {
 

@@ -12,8 +12,8 @@ import org.springframework.aop.AdvisedSupport;
 /**
  * cglib动态代理
  *
- * @author zqc
- *   2022/12/17
+ * @author Gws.
+ *   2023/12/17
  */
 public class CglibAopProxy implements AopProxy {
 

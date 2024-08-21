@@ -3,8 +3,8 @@ package org.springframework.aop.framework;
 import org.springframework.aop.AdvisedSupport;
 
 /**
- * @author zqc
- *   2022/12/16
+ * @author Gws.
+ *   2023/12/16
  */
 public class ProxyFactory extends AdvisedSupport {
 

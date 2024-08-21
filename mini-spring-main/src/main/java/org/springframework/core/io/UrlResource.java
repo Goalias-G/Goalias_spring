@@ -7,7 +7,7 @@ import java.net.URLConnection;
 
 /**
  * @author Gws.
- *   2020/11/25
+ *   2023/11/25
  */
 public class UrlResource implements Resource {
 

@@ -12,8 +12,8 @@ import java.util.List;
 /**
  * JDK动态代理
  *
- * @author zqc
- *   2022/12/19
+ * @author Gws.
+ *   2023/12/19
  */
 public class JdkDynamicAopProxy implements AopProxy, InvocationHandler {
 

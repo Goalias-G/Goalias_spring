@@ -9,7 +9,7 @@
 
     <bean id="car" class="org.springframework.test.bean.Car">
         <property name="price" value="1000000"/>
-        <property name="produceDate" value="2021-01-01"/>
+        <property name="produceDate" value="2023-01-01"/>
     </bean>
 
     <bean id="conversionService" class="org.springframework.context.support.ConversionServiceFactoryBean">

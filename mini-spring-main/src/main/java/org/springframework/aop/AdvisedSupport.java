@@ -10,10 +10,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @author zqc
- *   2022/12/16
- */
+
 public class AdvisedSupport {
 
 	//是否使用cglib代理

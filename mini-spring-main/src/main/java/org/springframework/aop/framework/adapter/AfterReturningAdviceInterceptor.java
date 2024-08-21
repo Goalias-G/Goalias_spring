@@ -9,8 +9,7 @@ import org.springframework.aop.AfterReturningAdvice;
 /**
  * 后置增强拦截器
  *
- * @author zqc
- *   2022/12/20
+ * @author Gws.
  */
 public class AfterReturningAdviceInterceptor implements MethodInterceptor, AfterAdvice {
 

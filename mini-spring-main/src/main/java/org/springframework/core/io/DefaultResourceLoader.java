@@ -5,7 +5,7 @@ import java.net.URL;
 
 /**
  * @author Gws.
- *   2020/11/25
+ *   2023/11/25
  */
 public class DefaultResourceLoader implements ResourceLoader {
 

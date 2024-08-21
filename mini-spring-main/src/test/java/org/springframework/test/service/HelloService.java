@@ -8,7 +8,7 @@ import org.springframework.context.ApplicationContextAware;
 
 /**
  * @author Gws.
- *   2020/11/22
+ *   2023/11/22
  */
 public class HelloService implements ApplicationContextAware, BeanFactoryAware {
 

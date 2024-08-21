@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 
 /**
  * @author Gws.
- *   2020/12/26
+ *   2023/12/26
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
